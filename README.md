@@ -8,14 +8,7 @@
 
 ### Contactame! / Contact me! 📫 :
 
-[![website](./img/twitter-light.svg)](https://twitter.com/lz_developer#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/lz_developer#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/lzwebdeveloper#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/lzwebdeveloper#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/lz.developer#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/lz.developer#gh-dark-mode-only)
+lzdesarrolloweb@gmail.com
 
 ### Tecnologías y herramientas / Technologies and tools:
 
