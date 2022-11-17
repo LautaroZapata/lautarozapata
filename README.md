@@ -8,7 +8,7 @@
 
 ### Contactame! / Contact me! 📫 :
 
-lzdesarrolloweb@gmail.com
+oratualzc@gmail.com
 
 ### Tecnologías y herramientas / Technologies and tools:
 
