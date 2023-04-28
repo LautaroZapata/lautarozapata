@@ -4,7 +4,7 @@
 
 - Mi meta es aprender tecnologías y dominarlas! / My goal is to learn technologies and master them! 😄
 - Me gustaría tener la posibilidad de trabajar en equipo! Realizar proyectos solo con el fin de mejorar habilidades. / I would like to have the opportunity to work in a team! Carry out projects only for the purpose of improving skills. 💪
-- Mis hobbies son hacer deportes como fútbol y también ver series. / My hobbies are playing sports like soccer and also watching series. ⚽🏀
+- Mis hobbies son hacer deportes como fútbol y también ver series. / My hobbies are playing sports like soccer and also watching series. ⚽
 
 ### Contactame! / Contact me! 📫 :
 
