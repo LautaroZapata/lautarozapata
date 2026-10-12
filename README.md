@@ -1,33 +1,28 @@
-# Hola! Soy Lautaro! / Hi i'm Lautaro 👋 
+# Hola, soy Lautaro 👋
 
-## Actualmente soy desarrollador web trainee y un apasionado por lo audiovisual / Actually i'm a trainee web developer and passionate about audiovisual. 🖥️🎥
+Desarrollador web y estudiante de **Analista en Tecnologías de la Información** en la Universidad ORT (Montevideo, Uruguay).
+Con [Kalabs](https://kalabs.dev) hago sitios web, sistemas a medida y automatizaciones con IA para negocios.
 
-- Mi meta es aprender tecnologías y dominarlas! / My goal is to learn technologies and master them! 😄
-- Me gustaría tener la posibilidad de trabajar en equipo! Realizar proyectos solo con el fin de mejorar habilidades. / I would like to have the opportunity to work in a team! Carry out projects only for the purpose of improving skills. 💪
-- Mis hobbies son hacer deportes como fútbol y también ver series. / My hobbies are playing sports like soccer and also watching series. ⚽
+## 🚀 Proyectos destacados
+- **[Cupo](https://cupo.uy)**: reservas online para turnos, canchas y clases, sin crear cuenta, con recordatorios automáticos y panel de gestión.
+- **[Oleohidráulica Cáceres](https://oleocaceres-web.vercel.app)**: sitio institucional para un cliente real.
+- **[Kalabs](https://kalabs.dev)**: sitio del estudio con nuestros servicios.
+- Bots de WhatsApp y Telegram con IA, catálogos, paneles de administración y control de stock.
 
-### Contactame! / Contact me! 📫 :
+## 🛠️ Stack
+C# · JavaScript · TypeScript · React · Next.js · SQL · HTML/CSS
 
-oratualzc@gmail.com
+IA aplicada: integración de LLMs comerciales y open source por API, prompts y automatizaciones.
 
-### Tecnologías y herramientas / Technologies and tools:
+Soporte IT: título de BIOS, reparación de PC y nociones de redes.
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+## 🎓 Formación
+- Analista en Tecnologías de la Información, Universidad ORT (en curso)
+- Soporte IT, BIOS
+- Desarrollo Web (+290 hs), Jóvenes a Programar
 
-<br />
-<br />
+## 📫 Contacto
+[LinkedIn](https://linkedin.com/in/lautarozc) · oratualzc@gmail.com · [kalabs.dev](https://kalabs.dev)
 
-
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="LautaroZapata's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LautaroZapata&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
+---
+*English: Web developer and IT student at ORT Uruguay, building websites, custom systems and AI automations at Kalabs.*
